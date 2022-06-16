@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "School"
+echo mv "School" "School is open!"
